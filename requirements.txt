@@ -1,0 +1,11 @@
+langchain
+langchain-huggingface
+langchain-chroma
+langchain-cohere
+langchain-openai
+chromadb
+rank_bm25
+streamlit
+ragas
+pypdf
+python-dotenv
